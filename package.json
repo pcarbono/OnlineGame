@@ -7,6 +7,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "build": "if not exist build mkdir build && robocopy . build *.html *.css /s /njh /njs /ndl /nc /ns /np /xjd /xd build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
