@@ -15,7 +15,7 @@ Welcome to Mokepon, a very simple online game where you can choose an avatar to 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your_username/your_project.git`
+1. Clone the repository: `git clone https://github.com/pcarbono/OnlineGame.git`
 2. Open the `index.html` file in your favorite web browser.
 
 ## Usage
@@ -26,6 +26,3 @@ Select your avatar, choose your attacks strategically, and compete against your 
 
 Contributions are welcome! If you have ideas to improve the game or find any bugs, please open an issue or send a pull request.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
